@@ -43,3 +43,4 @@ A floating navigation panel that gives you instant access to Crazyparts from any
 ## Using Multiple Scripts
 
 If you are using several of the THVjQ Tampermonkey scripts, check the **Issues** tab — a multi-script addon with live updates across all scripts is in progress.
+
