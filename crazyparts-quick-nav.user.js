@@ -1,3 +1,4 @@
+// CP
 // ==UserScript==
 // @name         Crazyparts Quick Nav v12
 // @namespace    http://tampermonkey.net/
